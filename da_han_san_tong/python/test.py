@@ -9,7 +9,7 @@ import urllib2
 payload = {'message':
            """<?xml version='1.0' encoding='UTF-8'?>
            <message><account>dh20891</account>
-           <password>daffacc5d5b2482ab603715a6d68566d</password>
+           <password>1231234</password>
            <msgid></msgid><phones>1502634409</phones>
            <content>172.17.170.147的外网异常</content>
            <sign></sign><subcode></subcode><sendtime></sendtime></message>
